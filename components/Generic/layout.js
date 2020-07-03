@@ -9,6 +9,7 @@ export default function Layout({ children }) {
 
   useEffect(() => {
     if (query && query.scrollTo) {
+      console.log(query);
       const { scrollTo } = query;
       scrollToElement(scrollTo)
     }
