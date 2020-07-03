@@ -7,6 +7,8 @@ module.exports = {
         '14': '3.5rem',
         '33%': '33%',
         '50%': '50%',
+        '90vw': '90vw',
+        '95vw': '95vw',
       },
       maxWidth: {
         'overlap': '110%',

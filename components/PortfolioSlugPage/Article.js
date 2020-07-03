@@ -13,7 +13,7 @@ export default function Article({ title, image, date, content }) {
       <img
         src={imgSrc}
         alt={`Image for ${title}`}
-        className="h-50vh"
+        className="md:h-50vh"
       />
       <h1 className="text-6xl font-title text-pink-custom mt-4 md:mt-16 mb-4">{title}</h1>
       <p className="font-title my-2 md:my-8 text-lg">

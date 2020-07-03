@@ -1,6 +1,13 @@
 .markdown {
-  @apply text-lg leading-relaxed font-body text-center;
+  @apply text-lg leading-relaxed font-body text-justify w-90vw;
 }
+
+@media (min-width: 768px) {
+  .markdown {
+    @apply w-auto;
+  }
+}
+
 
 .markdown p,
 .markdown ul,
