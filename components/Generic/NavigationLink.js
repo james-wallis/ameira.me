@@ -6,6 +6,8 @@ import ExternalLink from './ExternalLink'
 export default function NavigationLink({ hideMenu, text, scrollTo, href, external, ariaLabel }) {
   const url = `${process.env.BACKEND_URL}${href}`;
   const { pathname } = useRouter();
+  console.log('url', url);
+  console.log('pathname', pathname);
   const children = (scrollTo && (url === pathname)) ? getScrollLink({ text, scrollTo }) : getLink({ text, url, external, ariaLabel, scrollTo });
   return (
     <li onClick={hideMenu} className="inline-block py-3 md:py-0 px-3 tracking-wider cursor-pointer">
