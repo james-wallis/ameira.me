@@ -2,7 +2,7 @@
 title: "Do the advancements in cinematography decrease the impact that music should have in a musical film?"
 description: "A university project."
 excerpt: "In a stage musical, the set and choreography are designed to support the songs, whereas film musicals are created in such a way that could be seen to deem the songs as the support act and the visual spectacle as the front liner."
-image: "bish-bosh-bash.jpg"
+image: "camera.jpg"
 date: "2020-05-10T00:00:00"
 ---
 
