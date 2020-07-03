@@ -6,8 +6,6 @@ image: "camera.jpg"
 date: "2020-05-10T00:00:00"
 ---
 
-## Do the advancements in cinematography decrease the impact that music should have in a musical film?
-
 As stated by Michael Hoffman, musical film is “without a doubt, one of cinema’s most unique genres… which primarily utilizes song and dance routines to advance the narrative.” (Hoffman, 2014). However, when looking at the advancements in cinematography, have these song and dance routines become less significant than the cinematography itself? In a stage musical, the set and choreography are designed to support the songs, whereas film musicals are created in such a way that could be seen to deem the songs as the support act and the visual spectacle as the front liner. 
 
 Many film musicals have been adapted from stage productions, replacing the impact of a live performance with visual spectacle created with cinematography, as well as the “inclusion of lavish sets and locations that would be impractical or impossible to duplicate on the stage” (Hoffman, 2014). _The Wizard of Oz_(dir. Victor Fleming, 1939) is an early example of a stage-to-screen musical which used visual spectacle, arguably, in order to enhance the music. The film was revolutionary and was a wonderful visual spectacle; the mix of sepia toned footage and colour, the scene with Dorothy in the twister, the use of costume and scenery in Oz, all serve as prime examples of this. Though the music, aside from the catchy hooks of “We’re Off to See the Wizard” and “Ding Dong the Witch is Dead”, is arguably overshadowed. The cinematography was so enticing and extravagant at the time of its release, it could be seen to be more memorable and impactful than the music itself. _The Wizard of Oz_ “was the first out-and-out fantasy film musical, receiving Academy Awards for both its score and Harold Arlen’s song ‘Over the Rainbow’” (Cooke, 2008, p. 155). This supports the argument that the music itself is notovershadowed by the visual elements and cinematography, but instead stands apart from it. However, this does not deflect from the magnitude of visual aspects in _The Wizard of Oz._ As James Fussell states, “they had no computers. No green screens. No Industrial Light and Magic” (Fussell, 2014), which makes one wonder how they created the many visual effects in the film. A. Arnold Gillespie was the special effects artist for _The Wizard of Oz_, and for the tornado he used a “35-foot-long muslin stocking… wrapped around chicken wire to give it a conical appearance.” (Fricke qtd. in Fussell 2014). This was attached to a crane that was rotated using a motor, and the base of the tornado was attached to a car that the crew moved along a track in the soundstage. They filmed this and projected the footage behind the actors with a wind machine to make the tornado look real. The visual effects in _The Wizard of Oz_ were advanced at the time as nobody had ever seen anything like it before, which arguably distracts from the significance of the music itself. The magic created from the musical numbers before has now been overshadowed by the ‘magic’ of visual effects. However, this intricate and complex filming technique is not used in a section where there is a musical number, showing how the filmmakers put the more advanced cinematographic scenes as standalone pieces of visual spectacle, so as not to diminish the importance of the musical numbers. 
@@ -19,14 +17,24 @@ Whilst it could be argued that visual spectacle and cinematography are more sign
 For the most part, I do not believe that cinematography overshadows music in a film musical. Instead, it elevates it. Music and cinematography in a musical film complement one another and work together in order to create something magic.
 
 
-### Works Cited
+<br/>
+<br/>
+
+### Bibliography
 _American Hustle_. (2013). Sony Pictures Entertainment Motion Picture Group.
+
 _La La Land_. (2016). [Musical Film] Lionsgate Films.
+
 _The Wizard of Oz_. (1939). [Musical Film] Loews Cineplex Entertainment.
+
 **Works Cited**
 Alex, E. (2017). _The real reason “La La Land” is a success_. [online] Harper’s BAZAAR. Available at: https://www.harpersbazaar.com/uk/culture/culture-news/news/a39622/the-real-reason-la-la-land-is-a-success/ [Accessed 18 Apr. 2020].
+
 Cooke, M. (2008). Stage and Screen. In: _A History of Film Music._ [online] Cambridge: Cambridge University Press, pp.131–182. Available at: https://www-cambridge-org.ezproxy.uwe.ac.uk/core/books/history-of-film-music/stage-and-screen/12149A019A9C750308D1F6CE6C69555D [Accessed 27 Mar. 2020].
+
 Hoffman, M. (2014). _The Musical Film Genre: Capturing the Magic of the Stage on the Screen_. [online] Cinemablography. Available at: http://www.cinemablography.org/blog/the-musical-film-genre-capturing-the-magic-of-the-stage-on-the-screen [Accessed 15 Apr. 2020].
+
 O’Falt, C. (2017). _How ‘La La Land’ Cinematographer Linus Sandgren Taught His Cameras to Dance_. [online] IndieWire. Available at: https://www.indiewire.com/2017/02/la-la-land-cinematography-director-of-photography-linus-sandgren-1201776704/ [Accessed 12 Mar. 2020].
+
 Wichita and FussellKansas, J.A. (2014). _Special effects in “Wizard of Oz” took real magic_. [online] Kansas. Available at: https://www.kansas.com/entertainment/movies-news-reviews/article1236642.html [Accessed 19 Apr. 2020].
 
