@@ -4,6 +4,7 @@ description: "A university project."
 excerpt: "In a stage musical, the set and choreography are designed to support the songs, whereas film musicals are created in such a way that could be seen to deem the songs as the support act and the visual spectacle as the front liner."
 image: "camera.jpg"
 date: "2020-05-10T00:00:00"
+tags: ['university', 'essay']
 ---
 
 As stated by Michael Hoffman, musical film is “without a doubt, one of cinema’s most unique genres… which primarily utilizes song and dance routines to advance the narrative.” (Hoffman, 2014). However, when looking at the advancements in cinematography, have these song and dance routines become less significant than the cinematography itself? In a stage musical, the set and choreography are designed to support the songs, whereas film musicals are created in such a way that could be seen to deem the songs as the support act and the visual spectacle as the front liner.
