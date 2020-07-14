@@ -2,12 +2,6 @@
   @apply text-lg leading-relaxed font-body text-justify w-90vw;
 }
 
-@media (min-width: 768px) {
-  .markdown {
-    @apply w-auto;
-  }
-}
-
 
 .markdown p,
 .markdown ul,
@@ -35,4 +29,16 @@
 
 .markdown iframe, .markdown img {
   margin: 0 auto;
+  width: 100%;
+  height: 200px;
+}
+
+@media (min-width: 768px) {
+  .markdown {
+    @apply w-auto;
+  }
+  .markdown iframe, .markdown img {
+    width: 500px;
+    height: 300px;
+  }
 }
