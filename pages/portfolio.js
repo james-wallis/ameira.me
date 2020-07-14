@@ -1,4 +1,4 @@
-import Head from 'next/head';
+import { NextSeo } from 'next-seo';
 import Layout from '../components/Generic/layout';
 import { getCompletePortfolio } from '../lib/api';
 import Portfolio from '../components/PortfolioPage/Portfolio';
@@ -6,9 +6,16 @@ import Portfolio from '../components/PortfolioPage/Portfolio';
 export default function Index({ articles }) {
   return (
     <Layout>
-      <Head>
-        <title>Portfolio | Ameira Yanni</title>
-      </Head>
+      <NextSeo
+        title="Portfolio"
+        description="Ameira Yanni's Portfolio documenting works that she has crafted while working as either a copywriter, actor or creative."
+        canonical="https://ameira.me/portfolio"
+        openGraph={{
+          url: 'https://ameira.me/portfolio',
+          title: 'Portfolio',
+          description: 'Ameira Yanni\'s Portfolio documenting works that she has crafted while working as either a copywriter, actor or creative.',
+        }}
+      />
       <div className="pt-12 md:pt-24 text-center mb-4 md:mb-10">
         <h1 className="font-title text-7xl text-pink-custom mb-4">Portfolio</h1>
         <p className="font-body text-base mx-4 md:mx-16 lg:mx-32">

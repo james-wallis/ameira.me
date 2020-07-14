@@ -25,7 +25,7 @@ export default function PortfolioItem(props) {
   } = props;
   const scrollThreshold = onTopRow ? 0 : 0.5;
   const [viewRef, animate, setAnimationHasRun] = useAnimationOnScroll('show', scrollThreshold);
-  const imgSrc = require(`../../images/portfolio/${image}`);
+  const imgSrc = require(`../../images/portfolio/${image}?resize&size=500`);
   return (
     <div ref={viewRef} className="flex flex-col lg:w-33% md:w-50% p-1">
       <motion.div
@@ -38,7 +38,7 @@ export default function PortfolioItem(props) {
       >
         <div className="bg-center bg-cover h-50vh relative" style={{ backgroundImage: `url('${imgSrc}')` }}>
           <div className="absolute top-0 left-0 bg-img-tint h-full w-full flex justify-center items-center">
-            <h4 className="text-2xl p-2 md:px-16 font-title text-center text-white">{title}</h4>
+            <h2 className="text-2xl p-2 md:px-16 font-title text-center text-white">{title}</h2>
           </div>
         </div>
         <div className="w-full flex items-center justify-top flex-col text-center bg-grey-custom pb-12 md:pb-32 flex-1 relative">

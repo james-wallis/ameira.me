@@ -18,7 +18,7 @@ export default function PortfolioItemText(props) {
         onAnimationComplete={setAnimationHasRun}
         className=" bg-pink-custom px-2 md:px-0 md:py-8 pt-6 pb-10 md:mx-4 md:min-h-1/2 flex items-center justify-center flex-col"
       >
-        <h4 className="text-2xl m-2 md:mx-8 font-title">{title}</h4>
+        <h3 className="text-2xl m-2 md:mx-8 font-title">{title}</h3>
         <p className="text-base md:text-lg m-2 md:mx-8 md:my-4 font-title">
           <DateFormatter dateString={date} />
         </p>

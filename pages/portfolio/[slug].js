@@ -1,5 +1,6 @@
 import { useRouter } from 'next/router';
 import ErrorPage from 'next/error';
+import { NextSeo } from 'next-seo';
 import Container from '../../components/Generic/Container';
 import Layout from '../../components/Generic/layout';
 import { getPortfolioBySlug, getCompletePortfolio } from '../../lib/api';
@@ -16,17 +17,54 @@ export default function Post({ post }) {
     image,
     date,
     content,
+    description,
+    slug,
+    tags,
   } = post;
+  const canonical = `https://ameira.me/${slug}`;
+  const { src, srcSet } = require(`../../images/portfolio/${image}?resize&sizes[]=250&sizes[]=500&sizes[]=800`);
   return (
-    <Layout>
-      <Container>
-        {router.isFallback ? (
-          <p>Loading...</p>
-        ) : (
-          <Article title={title} image={image} date={date} content={content} />
-        )}
-      </Container>
-    </Layout>
+    <>
+      <NextSeo
+        title={title}
+        description={description}
+        canonical={canonical}
+        openGraph={{
+          url: canonical,
+          title,
+          description,
+          images: [
+            {
+              url: `https://ameira.me${src}`,
+              alt: title,
+            },
+            {
+              url: 'https://ameira.me/ameira.jpg',
+              width: 800,
+              height: 512,
+              alt: 'Ameira Yanni',
+            },
+            {
+              url: 'https://ameira.me/logo.png',
+              alt: 'AY Logo',
+            },
+          ],
+          article: {
+            publishedTime: date,
+            tags,
+          },
+        }}
+      />
+      <Layout>
+        <Container>
+          {router.isFallback ? (
+            <p>Loading...</p>
+          ) : (
+            <Article title={title} imgSrc={src} imgSrcSet={srcSet} date={date} content={content} />
+          )}
+        </Container>
+      </Layout>
+    </>
   );
 }
 
@@ -37,6 +75,8 @@ export async function getStaticProps({ params }) {
     'slug',
     'content',
     'image',
+    'description',
+    'tags',
   ]);
   const content = await markdownToHtml(post.content || '');
 

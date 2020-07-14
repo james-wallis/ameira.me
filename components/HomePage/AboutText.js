@@ -8,6 +8,7 @@ const variants = {
 
 export default function AboutText({ transition, image, content }) {
   const [viewRef, animate, setAnimationHasRun] = useAnimationOnScroll('show');
+  const { src, srcSet } = require(`../../images/${image}?resize&sizes[]=150&sizes[]=300&sizes[]=450`);
   return (
     <div ref={viewRef} className="w-full z-10 pb-10">
       <motion.div
@@ -20,7 +21,8 @@ export default function AboutText({ transition, image, content }) {
       >
         <h2 className="text-6xl font-title mb-2 md:mb-0">About Me</h2>
         <img
-          src={require(`../../images/${image}`)}
+          src={src}
+          srcSet={srcSet}
           alt="Ameira"
           className="md:hidden object-cover mb-2 md:mb-2"
         />

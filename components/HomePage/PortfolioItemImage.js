@@ -6,7 +6,7 @@ export default function PortfolioItemText(props) {
     title, image, transition, variants,
   } = props;
   const [viewRef, animate, setAnimationHasRun] = useAnimationOnScroll('show');
-  const src = require(`../../images/portfolio/${image}`);
+  const { src, srcSet } = require(`../../images/portfolio/${image}?resize&sizes[]=300&sizes[]=600&sizes[]=900`);
   return (
     <div ref={viewRef} className="w-full md:mx-4">
       <motion.img
@@ -16,6 +16,7 @@ export default function PortfolioItemText(props) {
         transition={transition}
         onAnimationComplete={setAnimationHasRun}
         src={src}
+        srcSet={srcSet}
         alt={`Cover Image for ${title}`}
         className="w-full object-cover h-full md:max-h-p-item"
       />

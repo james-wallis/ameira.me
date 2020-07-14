@@ -6,11 +6,11 @@ exports[`Portfolio renders and matches snapshot 1`] = `
     <div
       class="flex flex-col items-center w-full mt-16 md:mt-32 mb-0 md:mb-16 font-title"
     >
-      <h3
+      <h2
         class="text-7xl"
       >
         Portfolio
-      </h3>
+      </h2>
       <p
         class="text-lg my-8"
       >
@@ -26,11 +26,11 @@ exports[`Portfolio renders and matches snapshot 1`] = `
             class=" bg-pink-custom px-2 md:px-0 md:py-8 pt-6 pb-10 md:mx-4 md:min-h-1/2 flex items-center justify-center flex-col"
             style="opacity: 0; transform: translateX(-700px) translateZ(0);"
           >
-            <h4
+            <h3
               class="text-2xl m-2 md:mx-8 font-title"
             >
               title
-            </h4>
+            </h3>
             <p
               class="text-base md:text-lg m-2 md:mx-8 md:my-4 font-title"
             >
@@ -64,7 +64,6 @@ exports[`Portfolio renders and matches snapshot 1`] = `
           <img
             alt="Cover Image for title"
             class="w-full object-cover h-full md:max-h-p-item"
-            src="test-file-stub"
             style="opacity: 0; transform: translateX(700px) translateZ(0);"
           />
         </div>

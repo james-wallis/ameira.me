@@ -1,4 +1,5 @@
 import { motion } from 'framer-motion';
+import useIsMobile from '../../hooks/useIsMobile';
 
 const paragraphAnimation = {
   hidden: { opacity: 1, scale: 0 },
@@ -51,8 +52,13 @@ const createSubTitle = () => {
 };
 
 export default function Hero() {
+  const isMobile = useIsMobile();
   const subTitle = createSubTitle();
-  const image = require('../../images/home/header-background.jpg');
+  // eslint-disable-next-line import/no-unresolved
+  const desktopImage = require('../../images/home/header-background.jpg?resize&size=2000');
+  // eslint-disable-next-line import/no-unresolved
+  const mobileImage = require('../../images/home/header-background.jpg?resize&size=1000');
+  const image = isMobile ? mobileImage : desktopImage;
   return (
     <section id="hero">
       <div

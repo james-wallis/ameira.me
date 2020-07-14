@@ -19,7 +19,6 @@ exports[`About renders and matches snapshot 1`] = `
             alt="Ameira"
             class="hidden md:block absolute z-0 object-cover w-overlap h-overlap max-w-overlap"
             data-testid="about-image"
-            src="test-file-stub"
           />
         </div>
       </div>
@@ -38,7 +37,6 @@ exports[`About renders and matches snapshot 1`] = `
           <img
             alt="Ameira"
             class="md:hidden object-cover mb-2 md:mb-2"
-            src="test-file-stub"
           />
           <p
             class="py-2 md:py-4 leading-loose font-body"

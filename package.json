@@ -20,6 +20,7 @@
     "next": "latest",
     "next-compose-plugins": "^2.2.0",
     "next-optimized-images": "^2.6.1",
+    "next-seo": "^4.7.3",
     "postcss-preset-env": "^6.7.0",
     "react": "^16.13.0",
     "react-dom": "^16.13.0",
@@ -29,6 +30,8 @@
     "react-use": "^15.3.2",
     "remark": "11.0.2",
     "remark-html": "10.0.0",
+    "responsive-loader": "^1.2.0",
+    "sharp": "^0.25.4",
     "tailwindcss": "^1.4.0"
   },
   "devDependencies": {
@@ -49,7 +52,8 @@
     "coverageDirectory": "./coverage/",
     "collectCoverage": true,
     "moduleNameMapper": {
-      "\\.(jpg|jpeg|png|gif|eot|otf|webp|svg|ttf|woff|woff2|mp4|webm|wav|mp3|m4a|aac|oga)$": "<rootDir>/__mocks__/fileMock.js",
+      "^.*(jpe?g|png).*$": "<rootDir>/__mocks__/fileMock.js",
+      "\\.(gif|eot|otf|webp|svg|ttf|woff|woff2|mp4|webm|wav|mp3|m4a|aac|oga)$": "<rootDir>/__mocks__/fileMock.js",
       "\\.(css|less)$": "identity-obj-proxy"
     }
   }

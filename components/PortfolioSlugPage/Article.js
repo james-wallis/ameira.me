@@ -1,20 +1,15 @@
-import Head from 'next/head';
 import Link from 'next/link';
 import DateFormatter from '../Generic/DateFormatter';
 import PrintMarkdownHTML from '../Generic/PrintMarkdownHTML';
 
 export default function Article({
-  title, image, date, content,
+  title, imgSrc, imgSrcSet, date, content,
 }) {
-  const imgSrc = require(`../../images/portfolio/${image}`);
   return (
     <article className="flex flex-col items-center justify-center text-center pt-6 md:pt-32">
-      <Head>
-        <title>{title}</title>
-        <meta property="og:image" content={imgSrc} />
-      </Head>
       <img
         src={imgSrc}
+        srcSet={imgSrcSet}
         alt={title}
         className="md:h-50vh"
       />

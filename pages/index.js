@@ -1,4 +1,4 @@
-import Head from 'next/head';
+import { NextSeo } from 'next-seo';
 import Container from '../components/Generic/Container';
 import Layout from '../components/Generic/layout';
 import Hero from '../components/HomePage/Hero';
@@ -9,10 +9,15 @@ import { getCompletePortfolio } from '../lib/api';
 export default function Index({ articles }) {
   return (
     <>
+      <NextSeo
+        title="Home"
+        canonical="https://ameira.me"
+        openGraph={{
+          url: 'https://ameira.me',
+          title: 'Home',
+        }}
+      />
       <Layout>
-        <Head>
-          <title>Ameira Yanni</title>
-        </Head>
         <Hero />
         <Container>
           <About />

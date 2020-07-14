@@ -8,6 +8,7 @@ const variants = {
 
 export default function AboutImage({ transition, image }) {
   const [viewRef, animate, setAnimationHasRun] = useAnimationOnScroll('show');
+  const { src, srcSet } = require(`../../images/${image}?resize&sizes[]=400&sizes[]=700&sizes[]=1000`);
   return (
     <div ref={viewRef} className="w-full">
       <motion.div
@@ -19,7 +20,8 @@ export default function AboutImage({ transition, image }) {
         className="w-full h-full relative"
       >
         <img
-          src={require(`../../images/${image}`)}
+          src={src}
+          srcSet={srcSet}
           alt="Ameira"
           className="hidden md:block absolute z-0 object-cover w-overlap h-overlap max-w-overlap"
           data-testid="about-image"

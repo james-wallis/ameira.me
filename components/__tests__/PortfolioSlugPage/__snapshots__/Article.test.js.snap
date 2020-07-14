@@ -8,7 +8,6 @@ exports[`Hero renders and matches snapshot 1`] = `
     <img
       alt="page title"
       class="md:h-50vh"
-      src="test-file-stub"
     />
     <h1
       class="text-4xl md:text-6xl font-title text-pink-custom mt-4 md:mt-16 mb-4"

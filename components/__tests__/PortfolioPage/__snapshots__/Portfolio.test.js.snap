@@ -20,11 +20,11 @@ exports[`Hero renders and matches snapshot 1`] = `
             <div
               class="absolute top-0 left-0 bg-img-tint h-full w-full flex justify-center items-center"
             >
-              <h4
+              <h2
                 class="text-2xl p-2 md:px-16 font-title text-center text-white"
               >
                 title
-              </h4>
+              </h2>
             </div>
           </div>
           <div
@@ -72,11 +72,11 @@ exports[`Hero renders and matches snapshot 1`] = `
             <div
               class="absolute top-0 left-0 bg-img-tint h-full w-full flex justify-center items-center"
             >
-              <h4
+              <h2
                 class="text-2xl p-2 md:px-16 font-title text-center text-white"
               >
                 title2
-              </h4>
+              </h2>
             </div>
           </div>
           <div
