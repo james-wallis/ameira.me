@@ -2,7 +2,7 @@
 title: "Single Review: Marsicans - Someone Else’s Touch”
 description: "A commission for Only A Northern One."
 excerpt: "Each element blends effortlessly together to create something poignant and elegant."
-image: “marsicans.jpg"
+image: "marsicans.jpg"
 date: "2020-07-20T00:00:00"
 tags: ['review']
 ---
