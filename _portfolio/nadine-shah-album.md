@@ -23,3 +23,5 @@ The penultimate track, ‘Walk’, follows the protagonist as she walks down a s
 
 
 Kitchen Sink reflects a familiar world but through Shah’s eyes. A vision with a desire to both entertain and unsettle the listener. With pulsing guitar strums, electronic trills and unorthodox rhythmic patterns, Shah portrays a suspended reality. Revealing her view of life, she exposes everything and the kitchen sink.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H4so3zoNiAI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
