@@ -21,7 +21,7 @@ Sandwiched between a humorous poem in 'Interlude II' and a whispy instrumental i
 
 'Leave Me Outside' is the penultimate song with layered harmonised melodious vocals which play with unexpected minor notes, lulling you into a dreamlike state. Then suddenly the track is hit with a powerful rush of steady guitar strums and fierce drums. Leave Me Outside is an insanely well-crafted kaleidoscopic track.
 
-The album closes with 'Should've Been There' - a gentle, pleasant song with pulsing instrumental notes and soft vocals. The final number provides a much needed moment to reflect on the captivating journey the album has taken you on. Their connection as a band is unparalleled and comes through every in every song in Ursa Major. There is not one song on this album that slips under the cracks; each track unequivocally personifies the sound and soul of Marsicans. 
+The album closes with 'Should've Been There' - a gentle, pleasant song with pulsing instrumental notes and soft vocals. The final number provides a much needed moment to reflect on the captivating journey the album has taken you on. Their connection as a band is unparalleled and comes through every song in Ursa Major. There is not one song on this album that slips under the cracks; each track unequivocally personifies the sound and soul of Marsicans. 
 
 Ursa Major shows us exactly what Marsicans are capable of, and blimey, they are capable of a lot. 
 
