@@ -23,6 +23,7 @@ collections:
         widget: "string"
       - label: "Date"
         name: "date"
+        format: "YYYY-MM-DDTHH:mm"
         widget: "datetime"
         dateFormat: "DD/MM/YYYY"
         timeFormat: ""
