@@ -4,7 +4,7 @@ description: "A lockdown research project. "
 excerpt: You scroll through your go-to free porn site and see your daughter,
   brother, or best-friend legs akimbo. Don't panic; this is only hypothetical.
 date: 2020-09-16T20:44
-image: /images/portfolio/banana.jpg
+image: banana.jpg
 tags:
   - article
   - research project
