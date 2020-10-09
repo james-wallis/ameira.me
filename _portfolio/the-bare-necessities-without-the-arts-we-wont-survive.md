@@ -14,9 +14,9 @@ Throughout my life, I have aspired to work within the arts. However, it has come
 
 Recently, the arts have taken a massive hit; not only in terms of revenue and job availability but in terms of respect. We have been advised, rather carelessly, to retrain and get another job. A proper job, I suppose. Well, much to your surprise, most of us already had other jobs. 
 
-It is no secret that the arts are competitive and, most above all else, hideously underfunded. We've adapted and have found other means of income to get us from endless auditions to a casting, or from weeks of successful art sales to nothing. To ask us to retrain is to ask us to go against every fibre of our being. It is damaging and fatuous to expect us to do so. 
+It is no secret that the arts are competitive and, above all else, hideously underfunded. We've adapted and have found other means of income to get us from endless auditions to a casting, or from weeks of successful art sales to nothing. To ask us to retrain is to ask us to go against every fibre of our being. It is damaging and fatuous to expect us to do so. 
 
-If you put 10% of your energy into your' backup plan', you're only putting 90% into your dream. Those in the arts tend to put in 100%. They put all of their soul and energy into their careers— a trait which shows unrivalled strength and resilience. But, whilst they are now applying for other jobs to get them through the 'arts ban of 2020', society sees them as unqualified, unskilled and undesirable. 
+If you put 10% of your energy into your 'backup plan', you're only putting 90% into your dream. Those in the arts tend to put in 100%. They put all of their soul and energy into their careers— a trait which shows unrivalled strength and resilience. But, whilst they are now applying for other jobs to get them through the 'arts ban of 2020', society sees them as unqualified, unskilled and undesirable. 
 
 I implore you to spend a month in the shoes of a creative— experience first-hand just how extraordinarily determined we are. Those working in the arts don't get to leave work at the door. They go home, and continue to paint their next commission, or spend hours learning lines, or excessively research things for their novel. The skills you gain from being a member of the arts community are unparalleled. Yet here we are, being degraded and slandered. 
 
