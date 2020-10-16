@@ -1,6 +1,6 @@
 ---
 title: "Single Review: Mali Hayes - Save Ourselves"
-description: "A commission for Only a Northern One. "
+description: "A commission for Only A Northern One. "
 excerpt: She is undoubtedly the right vehicle to discuss such significant
   issues; with a song as enchanting as this one, it's hard to ignore the message
   behind it.
