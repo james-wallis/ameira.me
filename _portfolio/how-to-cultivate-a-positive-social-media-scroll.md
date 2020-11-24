@@ -30,13 +30,13 @@ Well done! You've just had a social media cleanse. You've removed all the negati
 
 Follow more people! It might sound counterproductive, given that you've just removed everyone. But, now you're going to follow accounts which make you smile and make you feel good. And, use this as an opportunity to follow some inspirational, diverse, or creative pages. Some fantastic Instagram accounts to follow are:
 
-* @feminist - diversity and female empowerment
-* @selfcareisforeveryone - self-care and mental health
-* @sunnybloominspiration - spreading positivity
-* @yung_pueblo - poetry about meditation and mental wellness
-* @DLCAnxiety - the largest anxiety support community
-* @lizandmollie - funny yet insightful and relatable comics
-* @justgrilproject - female empowerment and self-love
+* @feminist - diversity and female empowerment.
+* @selfcareisforeveryone - self-care and mental health.
+* @sunnybloominspiration - spreading positivity.
+* @yung_pueblo - poetry about meditation and mental wellness.
+* @DLCAnxiety - the largest anxiety support community.
+* @lizandmollie - funny yet insightful and relatable comics.
+* @justgrilproject - female empowerment and self-love.
 
 There are hundreds, if not thousands of other accounts which you could follow for inspiration, guidance or joy. Including @boopmynose over on Instagram, it's delightful. Following the 'right' people or pages will make you happier when scrolling, and will mean that you actually benefit from doing it, too. And, when you do follow, be active, not passive. 'Just scrolling, or "passively viewing," leads to feelings of envy, but posting and commenting can help build feelings of connectedness and friendship'\[2]. We should lift one another and be supportive. If you see a post you like, comment and tell the person!
 
@@ -55,8 +55,6 @@ Social media can be an excellent tool for communication, and if you follow the r
 Social media presents a singular moment in someone's life. Often, those snapshots convey a flawless, happy existence. But, they are still just snapshots. People will always want to show their 'best selves' on social media, and right now, it's the perception of perfection. Comparing yourself to a filtered moment is damaging, and has led to so many cases of body dysmorphia, anxiety, and depression amongst young people. It's hard to remember that social media isn't an accurate reflection of life, so 'set a weekly reminder on your phone: Instagram is not real life!' \[2]. Doing so will ground you, and remind you that what social media presents as perfect, isn't always real.
 
 Social media is hard to navigate. It's daunting, and more often than not, it is negative. But, you choose how you experience social media. If that means you use it once a week, go for it! If it means you follow hundreds of inspiring, motivational accounts, that's great! And, if social media isn't for you, that's fine too! Don't feel pressured to use social media just because everyone else does. Prioritise yourself and your mental wellbeing. Step away from the crowd, and narrate your own story.
-
-
 
 **References** 
 
