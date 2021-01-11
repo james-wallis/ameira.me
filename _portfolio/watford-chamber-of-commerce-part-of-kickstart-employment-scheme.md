@@ -5,7 +5,7 @@ description: "A commission for the Watford Chamber of Commerce, publish in The
 excerpt: Young people need a helping hand to kickstart their adult working lives
   maybe more now than ever. And employers can be hesitant to hire them because
   they lack expertise.
-date: 2021-01-11T11:21
+date: 2020-12-09T11:29
 image: kickstartscheme.jpg
 tags:
   - article
