@@ -4,7 +4,7 @@ description: "A commission for Sparta Health. "
 excerpt: We tapped into a more natural way of living, which was rather lovely.
   Now, though, the societal pressures attached with COVID seem to be far more
   dangerous. Both to our mental and our physical health.
-date: 2021-01-16T10:04
+date: 2020-12-12T10:04
 image: covid.jpg
 tags:
   - article
