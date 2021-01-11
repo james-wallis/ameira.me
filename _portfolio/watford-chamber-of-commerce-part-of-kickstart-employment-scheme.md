@@ -1,6 +1,6 @@
 ---
 title: Watford Chamber of Commerce part of Kickstart employment scheme
-description: "A commission for the Watford Chamber of Commerce, publish in The
+description: "A commission for the Watford Chamber of Commerce, published in The
   Watford Observer. "
 excerpt: Young people need a helping hand to kickstart their adult working lives
   maybe more now than ever. And employers can be hesitant to hire them because
