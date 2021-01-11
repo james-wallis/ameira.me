@@ -5,7 +5,7 @@ excerpt: We are all once again overwhelmed with apprehension, angst and dread.
   Whilst we have been told it will only be for six weeks, the impact to
   businesses like Salsa Mish and its founder, Mish Yanni, will last a lifetime.
 date: 2021-01-11T16:27
-image: salsaevent.jpg
+image: salsamish.jpg
 tags:
   - blog
   - arts
