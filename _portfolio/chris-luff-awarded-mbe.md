@@ -3,8 +3,8 @@ title: Chris Luff Awarded MBE
 description: "A commission for Chris Luff, published in Watford News. "
 excerpt: Chris Luff has an abundance of pride for his local town and community;
   indeed, a trait which led him to the honourable achievement of an MBE.
-date: 2020-11-23T14:17
-image: watford.jpg
+date: 2020-12-21T14:17
+image: chrisluff.jpeg
 tags:
   - article
   - community
@@ -32,3 +32,7 @@ Chris' family network is precisely why he is the way he is. For over 20 years, C
 Chris' late father, Jeff, always said 'do the right thing'. This was a mantra which fuelled Chris' life, and one which he passed on to his two daughters, Rosie and Lucy. 
 
 If it were possible to put all of Chris' accolades and experiences on paper, I would instead be writing a novel. The work he and his network have done over the past few years, and notably in the past few months, is astonishing. It must be said that Chris is somewhat embarrassed about this achievement. He is honoured and grateful to receive recognition, though he feels many others are more deserving. Chris will therefore be accepting the award on behalf of the hundreds of people in Hertfordshire who were involved. Without them, none of this would have been possible, and to them, he is eternally grateful.
+
+
+
+*Origanl post: https://en.calameo.com/read/004433267c9f607726b59*
