@@ -1,6 +1,6 @@
 ---
 title: Chris Luff Awarded MBE
-description: "A commission for Chris Luff, published in Watford News. "
+description: "A commission for Chris Luff MBE, published in Watford News. "
 excerpt: Chris Luff has an abundance of pride for his local town and community;
   indeed, a trait which led him to the honourable achievement of an MBE.
 date: 2020-12-21T14:17
