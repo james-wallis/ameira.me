@@ -45,3 +45,5 @@ He said: "The support from the Chamber has been extraordinary. Struggling busine
 Andrew's colleague, Fiona Wardil, said: "We're all in awe of Chris and his team at the Chamber. The fact that the donations are still coming in is amazing. We’re forever grateful, it really does mean the world to us."
 
 How long will Operation Sarnie be running for? According to Chris Luff: "As long as there are donations, we will keep going".
+
+Orignally published in the Watford Observer: https://www.watfordobserver.co.uk/news/19010691.watford-businesses-supporting-nhs-staff-lockdown/
