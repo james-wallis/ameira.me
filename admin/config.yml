@@ -1,0 +1,72 @@
+backend:
+  name: github
+  repo: james-wallis/ameira.me
+  branch: master
+publish_mode: editorial_workflow
+media_folder: "/images"
+collections:
+  - name: "pages"
+    label: "Pages"
+    files:
+      - label: Home
+        name: home
+        file: "_static_pages/home.md"
+        media_folder: "/images/home"
+        public_folder: ""
+        editor:
+        preview: false
+        fields:
+          - label: "Title"
+            name: "title"
+            widget: "string"
+          - label: "Tagline"
+            name: "tagline"
+            widget: "list"
+            allow_add: true
+          - label: "About me image (desktop)"
+            name: "aboutImageDesktop"
+            widget: "image"
+          - label: "About me image (mobile)"
+            name: "aboutImageMobile"
+            widget: "image"
+          - label: "Hero background image"
+            name: "heroBackgroundImage"
+            widget: "image"
+          - label: "About Me text"
+            name: "body"
+            widget: "markdown"
+  - name: "portfolio" # Used in routes, e.g., /admin/collections/blog
+    label: "Portfolio" # Used in the UI
+    folder: "_portfolio" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    media_folder: "/images/portfolio"
+    public_folder: ""
+    editor:
+     preview: false
+    fields: # The fields for each document, usually in front matter
+      - label: "Title"
+        name: "title"
+        widget: "string"
+      - label: "Description"
+        name: "description"
+        widget: "string"
+      - label: "Excerpt"
+        name: "excerpt"
+        widget: "string"
+      - label: "Date"
+        name: "date"
+        format: "YYYY-MM-DDTHH:mm"
+        widget: "datetime"
+        dateFormat: "DD/MM/YYYY"
+        timeFormat: ""
+      - {label: "Featured Image", name: "image", widget: "image"}
+      - label: "Tags"
+        name: "tags"
+        widget: "list"
+        allow_add: true
+        default: ["review"]
+      - label: "Body"
+        name: "body"
+        widget: "markdown"
+
