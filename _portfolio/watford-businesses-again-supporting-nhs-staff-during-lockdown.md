@@ -18,10 +18,6 @@ The Chamber and its connections are supplying sandwiches, drinks, snacks and a p
 
 'Operation Sarnie' is composed of the Chamber of Commerce, the Chamber of Conscience, Watford Football Club, F3 (Watford FC Hospitality and Events), Aramark, Tesco, Costco, The Gate Group, The Grove Hotel, Asvina UK Ltd, Warner Bros., Eagle Cars, Barnett’s Coaches, Wenzel’s Bakery, Clock Limited and nation-wide charity SEWA Day.
 
-![No alt text provided for this image](https://media-exp1.licdn.com/dms/image/C4D12AQHkSfjAv0-QgA/article-inline_image-shrink_1000_1488/0/1610713896892?e=1616630400&v=beta&t=0nq8wkPwzMjKnUWmiPQMSGnZH_ob7EJGzCkefQ5Se3A)
-
-***Chief executive of the Chamber of Commerce Chris Luff***
-
 Chief executive of the Chamber Chris Luff said: "When we heard that the trust was facing challenges about providing a safe space for its staff to eat and relax, it was a no brainer. I'm not surprised by the immediate take up of people helping. In my mind, this is what a Chamber should do; bring people together to make great things happen.
 
 "Everyone from big companies to our Chamber of Conscience, including our young apprentices, are helping the community across the board. This is what Watford town needs."
