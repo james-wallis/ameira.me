@@ -1,8 +1,8 @@
 ---
 title: Watford businesses again supporting NHS staff during lockdown
 description: "Originally published in the Watford Observer. "
-excerpt: "**Businesses are once again pulling together to support the staff of
-  West Hertfordshire Hospitals NHS Trust during the latest national lockdown.**"
+excerpt: Businesses are once again pulling together to support the staff of West
+  Hertfordshire Hospitals NHS Trust during the latest national lockdown.
 date: 2021-01-19T17:09
 image: 271249058.gallery.jpg
 tags:
