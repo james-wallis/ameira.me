@@ -4,7 +4,7 @@ description: A commission for Sparta Health.
 excerpt: Going to the pub or the cinema feels like a distant memory. What was
   next? The daily walk. You know it well, I'm sure. So well, the novelty has
   worn off.
-date: 2021-04-29T14:14
+date: 2021-02-04T14:14
 image: /images/portfolio/noemi-macavei-katocz-cq59b8chp5o-unsplash.jpg
 tags:
   - blog
