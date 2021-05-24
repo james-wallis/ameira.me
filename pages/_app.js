@@ -1,10 +1,12 @@
 import '../styles/index.css';
 import { DefaultSeo } from 'next-seo';
 import { AnimatePresence } from 'framer-motion';
+import { useRouter } from 'next/router';
 import Navigation from '../components/Generic/Navigation';
 import Footer from '../components/Generic/Footer';
 
 export default function MyApp({ Component, pageProps }) {
+  const { pathname } = useRouter();
   return (
     <>
       <DefaultSeo
@@ -39,10 +41,10 @@ export default function MyApp({ Component, pageProps }) {
       <AnimatePresence
         exitBeforeEnter
         initial={false}
-        // onExitComplete={() => window.scrollTo(0, 0)}
+        onExitComplete={() => window.scrollTo(0, 0)}
       >
         {/* eslint-disable-next-line react/jsx-props-no-spreading */}
-        <Component {...pageProps} />
+        <Component {...pageProps} key={pathname} />
       </AnimatePresence>
       <Footer />
     </>

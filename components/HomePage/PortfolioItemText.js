@@ -1,7 +1,7 @@
-import Link from 'next/link';
 import { motion } from 'framer-motion';
 import DateFormatter from '../Generic/DateFormatter';
 import useAnimationOnScroll from '../../hooks/useAnimationOnScroll';
+import Link from '../Generic/NoScrollLink';
 
 export default function PortfolioItemText(props) {
   const {

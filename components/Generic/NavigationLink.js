@@ -1,7 +1,7 @@
-import Link from 'next/link';
 import * as Scroll from 'react-scroll';
 import { useRouter } from 'next/router';
 import ExternalLink from './ExternalLink';
+import Link from './NoScrollLink';
 
 const getLink = ({
   url, external, text, ariaLabel, scrollTo,

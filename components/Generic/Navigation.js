@@ -24,11 +24,6 @@ export default function Navigation() {
       text: 'Portfolio',
       href: '/portfolio',
     },
-    {
-      text: 'CV',
-      href: '/assets/AmeiraCV.pdf',
-      external: true,
-    },
   ];
 
   const { query } = useRouter();
@@ -83,7 +78,7 @@ export default function Navigation() {
                 external={external}
               />
             ))}
-            <li className="inline-block py-3 md:py-0 px-1">
+            <li className="inline-block py-3 md:py-0 px-1 border-l-2 border-pink-100">
               <SocialIcons />
             </li>
           </ul>

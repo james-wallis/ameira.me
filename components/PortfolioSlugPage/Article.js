@@ -1,6 +1,6 @@
-import Link from 'next/link';
 import DateFormatter from '../Generic/DateFormatter';
 import PrintMarkdownHTML from '../Generic/PrintMarkdownHTML';
+import Link from '../Generic/NoScrollLink';
 
 export default function Article({
   title, imgSrc, imgSrcSet, date, content,

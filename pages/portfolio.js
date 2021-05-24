@@ -19,10 +19,10 @@ export default function Index({ articles }) {
       <div className="pt-12 md:pt-24 text-center mb-4 md:mb-10">
         <h1 className="font-title text-7xl text-pink-custom mb-4">Portfolio</h1>
         <p className="font-body text-base mx-4 md:mx-16 lg:mx-32">
-          The following is a collection of my writing projects.
-          Each piece is unique in style and content.
-          I hope you enjoy my work and I invite you to
-          contact me with any questions.
+          Here are some of my writing projects!
+          They vary from personal blogs to commissioned articles – and everything in between.
+          If you have any questions or would like to chat about a piece,
+          please feel free to contact me.
         </p>
       </div>
       <Portfolio articles={articles} />

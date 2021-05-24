@@ -84,19 +84,7 @@ exports[`Navigation matches snapshot 1`] = `
           </a>
         </li>
         <li
-          class="inline-block py-3 md:py-0 px-3 tracking-wider cursor-pointer"
-          role="menuitem"
-        >
-          <a
-            href="/assets/AmeiraCV.pdf"
-            rel="noopener noreferrer"
-            target="_blank"
-          >
-            CV
-          </a>
-        </li>
-        <li
-          class="inline-block py-3 md:py-0 px-1"
+          class="inline-block py-3 md:py-0 px-1 border-l-2 border-pink-100"
         >
           <div
             class="flex flex-row items-center justify-center"

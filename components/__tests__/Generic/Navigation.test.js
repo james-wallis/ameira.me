@@ -20,6 +20,5 @@ describe('Navigation', () => {
     expect(screen.getByText('Home')).toBeInTheDocument();
     expect(screen.getByText('About')).toBeInTheDocument();
     expect(screen.getByText('Portfolio')).toBeInTheDocument();
-    expect(screen.getByText('CV')).toBeInTheDocument();
   });
 });

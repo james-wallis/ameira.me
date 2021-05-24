@@ -1,6 +1,6 @@
 ---
 title: "Ameira Yanni"
-tagline: ['copywriter', 'actor', 'creative']
+tagline: ['content writer', 'actor', 'creative']
 aboutImageDesktop: "ameira.jpg"
 aboutImageMobile: "ameira-garden.jpg"
 heroBackgroundImage: "header-background.jpg"
