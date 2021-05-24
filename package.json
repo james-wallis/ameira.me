@@ -8,7 +8,8 @@
     "export": "next export",
     "eslint": "eslint .",
     "test": "jest",
-    "test:codecov": "jest && codecov"
+    "test:codecov": "jest && codecov",
+    "prepare": "husky install"
   },
   "dependencies": {
     "date-fns": "^2.21.3",
