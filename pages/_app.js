@@ -1,5 +1,8 @@
 import '../styles/index.css';
 import { DefaultSeo } from 'next-seo';
+import { AnimatePresence } from 'framer-motion';
+import Navigation from '../components/Generic/Navigation';
+import Footer from '../components/Generic/Footer';
 
 export default function MyApp({ Component, pageProps }) {
   return (
@@ -32,8 +35,16 @@ export default function MyApp({ Component, pageProps }) {
           cardType: 'summary_large_image',
         }}
       />
-      {/* eslint-disable-next-line react/jsx-props-no-spreading */}
-      <Component {...pageProps} />
+      <Navigation />
+      <AnimatePresence
+        exitBeforeEnter
+        initial={false}
+        // onExitComplete={() => window.scrollTo(0, 0)}
+      >
+        {/* eslint-disable-next-line react/jsx-props-no-spreading */}
+        <Component {...pageProps} />
+      </AnimatePresence>
+      <Footer />
     </>
   );
 }

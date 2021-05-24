@@ -1,8 +1,7 @@
 import { useEffect } from 'react';
 import { useRouter } from 'next/router';
 import { animateScroll as scroller } from 'react-scroll';
-import Footer from './Footer';
-import Navigation from './Navigation';
+import { motion } from 'framer-motion';
 
 const scrollToElement = (id) => {
   const el = document.getElementById(id);
@@ -13,6 +12,12 @@ const scrollToElement = (id) => {
       smooth: true,
     });
   }
+};
+
+const variants = {
+  hidden: { opacity: 0, x: -200, y: 0 },
+  enter: { opacity: 1, x: 0, y: 0 },
+  exit: { opacity: 0, x: 0, y: -100 },
 };
 
 export default function Layout({ children }) {
@@ -26,12 +31,15 @@ export default function Layout({ children }) {
   }, [query]);
 
   return (
-    <>
-      <Navigation />
-      <div className="min-h-screen">
-        <main className="overflow-hidden">{children}</main>
-      </div>
-      <Footer />
-    </>
+    <motion.div
+      className="min-h-screen"
+      initial="hidden"
+      animate="enter"
+      exit="exit"
+      variants={variants}
+      transition={{ type: 'linear' }}
+    >
+      <main className="overflow-hidden">{children}</main>
+    </motion.div>
   );
 }
