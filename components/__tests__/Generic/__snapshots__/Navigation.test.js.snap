@@ -20,7 +20,7 @@ exports[`Navigation matches snapshot 1`] = `
   <nav
     class="flex fixed w-screen h-screen md:w-full md:h-auto justify-center items-center pt-8 pb-8 md:pr-12 text-lg z-50 font-nav flex-col-reverse md:flex-row bg-opacity-1 md:bg-opacity-0 bg-white"
     role="menubar"
-    style="opacity: 0; transform: none;"
+    style="opacity: 0; transform: translateY(-100%) translateZ(0);"
   >
     <div
       class="fixed md:hidden z-50 h-14 w-14 top-0 right-0 m-4 bg-opacity-nav bg-white flex flex-col justify-center items-center outline-none"

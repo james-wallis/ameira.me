@@ -3,7 +3,7 @@
 exports[`Container it renders and matches snapshot 1`] = `
 <DocumentFragment>
   <div
-    class="container mx-auto px-5"
+    class="container 2xl:max-w-screen-xl mx-auto px-5"
   />
 </DocumentFragment>
 `;

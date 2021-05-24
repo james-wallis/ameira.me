@@ -1,14 +1,16 @@
 import React from 'react';
 import { render, screen } from '@testing-library/react';
 import '@testing-library/jest-dom/extend-expect';
-import * as reactIntersectionObserver from 'react-intersection-observer';
+import { mockAllIsIntersecting } from 'react-intersection-observer/test-utils';
 
 import About from '../../HomePage/About';
 
 jest.mock('react-use');
-reactIntersectionObserver.useInView = jest.fn().mockReturnValue([]);
 
 describe('About', () => {
+  beforeEach(() => {
+    mockAllIsIntersecting(true);
+  });
   test('renders and matches snapshot', () => {
     const { asFragment } = render(<About content="<p>some html</p>" desktopImage="ameira.jpg" mobileImage="ameira-garden.jpg" />);
     expect(asFragment()).toMatchSnapshot();

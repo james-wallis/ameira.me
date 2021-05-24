@@ -2,17 +2,18 @@ import React from 'react';
 import { render } from '@testing-library/react';
 import '@testing-library/jest-dom/extend-expect';
 import * as nextRouter from 'next/router';
-import * as reactIntersectionObserver from 'react-intersection-observer';
+import { mockAllIsIntersecting } from 'react-intersection-observer/test-utils';
 
 import Portfolio from '../../HomePage/Portfolio';
 
 jest.mock('react-use');
 nextRouter.useRouter = jest.fn();
-reactIntersectionObserver.useInView = jest.fn().mockReturnValue([]);
-
 nextRouter.useRouter.mockImplementation(() => ({ route: '/', query: {} }));
 
 describe('Portfolio', () => {
+  beforeEach(() => {
+    mockAllIsIntersecting(true);
+  });
   test('renders and matches snapshot', () => {
     const article = {
       invert: false,
