@@ -47,7 +47,7 @@
     "postcss": "^8.2.4",
     "postcss-preset-env": "^6.7.0",
     "responsive-loader": "^1.2.0",
-    "sharp": "^0.28.2",
+    "sharp": "^0.30.5",
     "tailwindcss": "^2.1.2"
   },
   "jest": {
